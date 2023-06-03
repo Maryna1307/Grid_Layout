@@ -100,11 +100,6 @@ html, body {
 
 .g-item__full {
     grid-column: span 2;
-    grid-row: span 2;
-}
-
-.g-item__title-full {
-    bottom: 27px;
 }
 
 .g-item__icons {
