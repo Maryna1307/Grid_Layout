@@ -58,6 +58,10 @@ html, body {
     visibility: hidden;
 }
 
+.g-item:hover {
+    cursor: pointer;
+}
+
 .g-item:hover .g-item__title{
     text-shadow: 2px 2px 2px #000;
 }
@@ -125,6 +129,7 @@ html, body {
 
 .g-item__icon:hover {
     background: #E0E0E0;
+    cursor: pointer;
 }
 
 .g-item:hover .g-item__icon {
